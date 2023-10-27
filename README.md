@@ -10,8 +10,8 @@ This project is a data cleaning and data modeling exploration. I have included e
 ### Technical details
 **Data Cleaning Methods:**
 - Deletion
-- Mode Imputation
 - Categorical Data Encoding
+- Mode Imputation
 - K-Nearest Neighbors (KNN) Imputation  
 - Feature Scaling 
 
