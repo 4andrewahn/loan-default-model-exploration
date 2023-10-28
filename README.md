@@ -1,11 +1,10 @@
 # **Predictive Modeling of Loan Defaults**
-<!-- ![Application Homepage](/homepage.jpg) -->
 ---
 Click the file `loan_defaults_project.ipynb` to see the project. 
 
 --- 
 ### About the project
-This project is a data cleaning and data modeling exploration. I have included explanations of my intuition behind the data cleaning methods used. I also explore the pros and cons of 3 regression models as well as compare metrics of their predictions. 
+This project was built as a data cleaning and data modeling exploration. I have included explanations of my intuition behind the data cleaning methods used. I also explore the pros and cons of 3 regression models as well as compare metrics of their predictions. 
 
 ### Technical details
 **Data Cleaning Methods:**
