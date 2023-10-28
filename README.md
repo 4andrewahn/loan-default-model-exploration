@@ -1,6 +1,6 @@
 # **Predictive Modeling of Loan Defaults**
 ---
-Click the file `loan_defaults_project.ipynb` to see the project. 
+Click the file `loan_default_project.ipynb` to see the project. 
 
 --- 
 ### About the project
